@@ -101,7 +101,7 @@ Deploy 🎉
 
 📌 Live Demo
 
-🔗 (Add your Streamlit public link here after deployment)
+🔗 https://god-chatbot-r854xfdlm6kns5kw5wqwpa.streamlit.app/
 
 👤 Author
 
