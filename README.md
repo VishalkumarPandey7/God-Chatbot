@@ -99,9 +99,10 @@ GROQ_API_KEY="your_key_here"
 
 Deploy 🎉
 
-📌 Live Demo
+## 🌍 Live Demo
 
-🔗 https://god-chatbot-r854xfdlm6kns5kw5wqwpa.streamlit.app/
+🔗 [Click here to open Saviour Chatbot](https://god-chatbot-r854xfdlm6kns5kw5wqwpa.streamlit.app/)
+
 
 👤 Author
 
