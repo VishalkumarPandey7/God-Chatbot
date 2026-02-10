@@ -4,6 +4,8 @@ God Chatbot is a Streamlit-based AI chatbot powered by **Groq LLM** and **LangCh
 It provides a clean ChatGPT-like interface where users can ask anything — all at once.
 
 ---
+## 🔗 Live & Related Links
+- *Live Application:* https://god-chatbot-r854xfdlm6kns5kw5wqwpa.streamlit.app/
 
 ## 🚀 Features
 
@@ -97,11 +99,8 @@ Add API key in Secrets:
 GROQ_API_KEY="your_key_here"
 
 
-Deploy 🎉
 
-## 🌍 Live Demo
 
-🔗 [Click here to open Saviour Chatbot](https://god-chatbot-r854xfdlm6kns5kw5wqwpa.streamlit.app/)
 
 
 👤 Author
